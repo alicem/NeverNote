@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "259964290605",
+    "firebase_url": "https://com-nevernote.firebaseio.com",
+    "project_id": "com-nevernote",
+    "storage_bucket": "com-nevernote.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259964290605:android:b958a5eb62d566e9",
+        "android_client_info": {
+          "package_name": "com.nevernote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259964290605-73f55a5bg8js8rbp5ds51ocbe58q54k8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh5uJ0RjczBehGJmDIzs699W18u7bQiC8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

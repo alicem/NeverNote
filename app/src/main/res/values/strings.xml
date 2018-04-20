@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NeverNote</string>
+    <string name="title_note_detail">Note Detail</string>
+    <string name="title_note_add_edit">Note Add Edit</string>
+</resources>
